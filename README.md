@@ -1,2 +1,2 @@
 # Fibonacci-Heap
-Fibonacci Heap created as a school project. Can be set up as a max heap or min heap
+Fibonacci Heap created as a school project. C++11. Can be set up as a max heap or min heap during construction. Functions are therefore named off of the "extreme"; fgetExtreme(), deleteExtreme(), etc. Methods are described in the respective header files. There are two classes; fibHeap has everything for full, user-end functionality. fibNode is used by fibHeap, but can be used by the user for greater functionality.
